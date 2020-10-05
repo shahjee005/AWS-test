@@ -1,0 +1,7 @@
+*.pyc*~
+/.vscode
+__pycache__
+Syed-venv
+db.sqlite3
+/static
+.DS_Store
