@@ -1,4 +1,5 @@
-*.pyc*~
+*.pyc
+*~
 /.vscode
 __pycache__
 Syed-venv
